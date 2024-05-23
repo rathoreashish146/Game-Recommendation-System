@@ -17,4 +17,5 @@ pinecone-client
 flask
 ctransformers==0.2.5
 gunicorn
+markdown
 -e .

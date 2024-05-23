@@ -60,7 +60,7 @@ The primary objective of this project is to build a cutting-edge game recommenda
 
 ### Real-Time Use Video
 
-Watch our model demonstrating real-time usage of the Medical Chatbot ![image](https://github.com/rathoreashish146/Game-Recommendation-System/assets/117078265/65185c9d-1b8f-483a-a0ec-31d054be83d7)
+Watch our model demonstrating real-time usage of the Game Recommendation Chatbot ![image](https://github.com/rathoreashish146/Game-Recommendation-System/assets/117078265/65185c9d-1b8f-483a-a0ec-31d054be83d7)
 
 
 ### Architecture Flow Chart

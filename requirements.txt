@@ -11,6 +11,7 @@ sentence_transformers==2.2.2
 pinecone-client
 Flask
 gunicorn
+unicorn
 python-dotenv
 markdown
 ctransformers==0.2.5

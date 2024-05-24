@@ -10,7 +10,8 @@ huggingface_hub
 tiktoken
 sentence_transformers==2.2.2
 pinecone-client
-flask
+Flask==2.0.1
+Gunicorn==20.1.0
 markdown
 ctransformers==0.2.5
 -e .

@@ -1,7 +1,6 @@
 langchain_openai
 langchain_core
 langchain
-python-dotenv
 streamlit
 langchain_community
 uvicorn
@@ -13,6 +12,7 @@ pinecone-client
 Flask==2.0.1
 Gunicorn==20.1.0
 Werkzeug==2.0.1
-markdown
+python-dotenv==0.21.0  # If you are using dotenv
+markdown==3.4.1  # Add this if you're using markdown
 ctransformers==0.2.5
 -e .

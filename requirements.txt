@@ -10,7 +10,7 @@ tiktoken
 sentence_transformers==2.2.2
 pinecone-client
 Flask
-unicorn
+gunicorn
 python-dotenv
 markdown
 ctransformers==0.2.5
